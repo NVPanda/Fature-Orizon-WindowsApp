@@ -1,0 +1,27 @@
+{
+  "name": "fature",
+  "version": "0.0.1",
+  "description": "Um simples redirecionamento da ferramenta Orizon Fature da empresa Orizon Brasil em modelo Desktop Windows",
+  "main": "main.js",
+  "scripts": {
+    "test": "test it ."
+  },
+  "repository": "git+https://github.com/NVPanda/Fature-Orizon-WindowsApp.git",
+  "keywords": [
+    "web",
+    "app",
+    "orizon",
+    "fature",
+    "desktop",
+    "windows"
+  ],
+  "author": "NVPanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NVPanda/Fature-Orizon-WindowsApp/issues"
+  },
+  "homepage": "https://github.com/NVPanda/Fature-Orizon-WindowsApp#readme",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
