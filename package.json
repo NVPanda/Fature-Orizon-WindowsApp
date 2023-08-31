@@ -4,7 +4,8 @@
   "description": "Um simples redirecionamento da ferramenta Orizon Fature da empresa Orizon Brasil em modelo Desktop Windows",
   "main": "main.js",
   "scripts": {
-    "test": "test it ."
+    "test": "test it .",
+    "start": "electron ."
   },
   "repository": "git+https://github.com/NVPanda/Fature-Orizon-WindowsApp.git",
   "keywords": [
