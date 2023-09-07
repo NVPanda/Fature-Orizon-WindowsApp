@@ -17,7 +17,7 @@ Consiste em redirecionar uma página web e seus respectivos recursos, visando fa
 Tecnologias utilizadas
 Utilizamos as tecnologias web: HTML, CSS e JAVASCRIPT de maneira mínima possível garantindo o desempenho original do serviço web e não provocando assim impacto no mesmo.
 
-Utilizamos NodeJS e o Framework ElectronJS.
+Utilizamos NodeJS, Framework ElectronJS e compiladores Electron-builder.
 
 Inicialização
 Para quem visitar o meu repositório inicializar o seu projeto após o git clone, se faz necessário rodar um npm ou se precisar instalar alguma dependência na máquina local basta olhar o meu Package.json.
