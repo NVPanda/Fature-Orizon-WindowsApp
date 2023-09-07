@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/NVPanda/Fature-Orizon-WindowsApp#readme",
   "dependencies": {
-    "electron": "^26.1.0"
+    "electron": "^26.1.0",
+    "electron-builder": "^24.6.4",
+    "nvm": "^0.0.4"
+  },
+  "devDependencies": {
+    "npm": "^10.0.0"
   }
 }
